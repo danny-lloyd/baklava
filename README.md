@@ -16,7 +16,7 @@
 | Build                              | [![build](https://github.com/danny-lloyd/baklava/actions/workflows/build.yml/badge.svg)](https://github.com/danny-lloyd/baklava/actions/workflows/build.yml) |
 | Citation data consistency          | [![cffconvert](https://github.com/danny-lloyd/baklava/actions/workflows/cffconvert.yml/badge.svg)](https://github.com/danny-lloyd/baklava/actions/workflows/cffconvert.yml) || SonarCloud                         | [![sonarcloud](https://github.com/danny-lloyd/baklava/actions/workflows/sonarcloud.yml/badge.svg)](https://github.com/danny-lloyd/baklava/actions/workflows/sonarcloud.yml) || Link checker              | [![link-check](https://github.com/danny-lloyd/baklava/actions/workflows/link-check.yml/badge.svg)](https://github.com/danny-lloyd/baklava/actions/workflows/link-check.yml) |## How to use baklava
 
-A sweet package
+A sweet package.
 
 The project setup is documented in [project_setup.md](project_setup.md). Feel free to remove this document (and/or the link to this document) if you don't need it.
 
